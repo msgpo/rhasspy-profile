@@ -1,3 +1,1 @@
-# Rhasspy Profile
-
-Manages profiles settings for [Rhasspy](https://github.com/synesthesiam/rhasspy).
+Moved to https://github.com/rhasspy/rhasspy-profile
